@@ -1,7 +1,5 @@
 const Button = ({ color, text, toggleShow }) => {
-  // const handleClick = () => {
-  //   console.log("Click with handle");
-  // };
+  
   return (
     <div>
       <button

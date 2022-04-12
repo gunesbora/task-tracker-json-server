@@ -10,8 +10,7 @@ const AddTask = ({ addTask }) => {
     setText("");
     setDay("");
 
-    // console.log(text);
-    // console.log(day);
+    
   };
 
   return (
